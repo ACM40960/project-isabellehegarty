@@ -7,7 +7,7 @@ Overview
 --------
 
 
-CONTENTS
+Contents
 ---------
  * Installation
  * Packages
@@ -17,26 +17,26 @@ CONTENTS
  * Principal Component Analysis
  * Partial Least Squares Regression
  
-INSTALLATION
+Installation
 ------------
 This code has been written using Python 3. This code has been written through an ipynb file using jupyter notebook. The name of the file is _____. For further information on downloading Jupyter Notebooks, please consult the page https://jupyter.org/install.
 
-PACKAGES
+Packages
 --------
 The neccessary packages to run all of the code are found at the top of the Python notebook. These include:
 *
 
-DATA CLEANING 
+Data Cleaning
 ------------
 
-EXPLORATORY DATA ANALYSIS
+Exploratory Data Analysis
 -------------------------
 
-GRANGER CAUSALITY
+Granger Causality
 -----------------
 
-PRINCIPAL COMPONENT ANALYSIS
+Principal Component Analysis
 ----------------------------
 
-PARTIAL LEAST SQUARES REGRESSION
+Partial Least Squares Regression
 --------------------------------
