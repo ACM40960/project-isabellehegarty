@@ -5,11 +5,7 @@ Title
 
 OVERVIEW
 --------
-What your application does,
-Why you used the technologies you used,
-Some of the challenges you faced and features you hope to implement in the future.
 
-This code has been written using Python 3. This code has been written through an ipynb file using jupyter notebook. The name of the file is _____. For further information on downloading Jupyter Notebooks, please consult the page https://jupyter.org/install.
 
 CONTENTS
 ---------
@@ -23,9 +19,12 @@ CONTENTS
  
 INSTALLATION
 ------------
+This code has been written using Python 3. This code has been written through an ipynb file using jupyter notebook. The name of the file is _____. For further information on downloading Jupyter Notebooks, please consult the page https://jupyter.org/install.
 
 PACKAGES
 --------
+The neccessary packages to run all of the code are found at the top of the Python notebook. These include:
+*
 
 DATA CLEANING 
 ------------
