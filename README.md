@@ -7,7 +7,7 @@ Overview
 --------
 This project examines a subset of variables known to contribute to climate change and attempts to quantify their influence on global temperature, using various analytical methods. 
 
-This code has been written using Python version 3.7, through an ipynb file using jupyter notebook. The project notebook is included in this repository and is called _____. This will show the the fully executed version of all the code used in our project. 
+This code has been written using Python version 3.7, through an ipynb file using jupyter notebook. The project notebook is included in this repository and is called Project.ipynb. This will show the the fully executed version of all the code used in our project. 
 
 
 Contents
@@ -23,7 +23,7 @@ Contents
 Installation
 ------------
 
-You can download the Jupyter Notebook from this repository by clicking the file ___ and clicking download, as seen below. 
+You can download the Jupyter Notebook from this repository by clicking the file Project.ipynb and clicking download, as seen below. 
 
 ** insert screenshot of what to click
 
